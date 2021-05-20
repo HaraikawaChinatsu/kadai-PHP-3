@@ -5,7 +5,7 @@ require_once 'thinkable.php';
 
 class Human extends Animal {
     
-    use Think;
+    use Thinkable;
 
     public $name = '';
     public $age = '';

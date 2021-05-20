@@ -14,6 +14,10 @@ class Main {
 
         $tanaka->say();
         $tanaka->think();
+        $suzuki->say();
+        $suzuki->think();
+        $sato->say();
+        $sato->think();
     }
 }
 
